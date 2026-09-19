@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+stat_output/
+old/
+stats_new/
+burst_output/
